@@ -1,0 +1,133 @@
+body {
+    background-color: rgb(240, 93, 238, 0.5);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.clear-fix {
+    clear: both;
+}
+
+.float-left {
+    float: left;
+}
+
+
+.special-h1 {
+    color: rgb(255, 8, 255);
+}
+
+.special-h2 {
+    color: rgb(255, 8, 255);
+    font-size: 25px;
+}
+
+.special-h4 {
+    color: rgb(255, 8, 255);
+    font-size: 20px;
+}
+
+p {
+    font-size: 15px;
+}
+.special {
+    width: 90%;
+    background-color: pink;
+    color: rgb(255, 8, 255);
+    text-align: center;
+    margin: 10px auto;
+    border-radius: 10px;
+    border: 2px solid rgb(171, 167, 176);
+}
+
+.special-img {
+    width: 150px;
+    height: 150px;
+    margin: 20px 20px;
+    object-fit: cover;
+    border-radius: 50%;
+    float: left;
+    border: 2px solid rgb(171, 167, 176);
+}
+
+.special .buttons {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.special .nav {
+    background-color: rgb(244, 42, 170);
+    color: rgb(124, 37, 199);
+    padding: 15px 20px;
+    margin: auto;
+    cursor: pointer;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+.contact-content {
+    width: 20%;
+    display: inline-block;
+    padding: 15px 0;
+    margin: 20px 2%;
+    color: rgb(124, 37, 199);
+    text-align: center;
+    text-decoration: none;
+}
+
+.skills {
+    width: 90%;
+    margin: 10px auto;
+    background-color: pink;
+    border-radius: 10px;
+    border: 2px solid rgb(171, 167, 176);
+}
+
+.skills-content {
+    width: 20%;
+    display: inline-block;
+    padding: 15px 0;
+    margin: 20px 2%;
+    background-color: pink;
+    color: rgb(124, 37, 199);
+    text-align: center;
+}
+
+.experience {
+    width: 90%;
+    margin: 10px auto;
+    background-color: pink;
+    border-radius: 10px;
+    border: 2px solid rgb(171, 167, 176);
+}
+
+.experience-img {
+    width: 15%;
+    margin: 10px;
+    float: left;
+}
+
+.experience-content {
+    width: 70%;
+    float: left;
+    text-align: left;
+    color: rgb(124, 37, 199);
+
+}
+
+.copyright {
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px 0;
+    color: rgb(124, 37, 199);
+    background-color: pink;
+    border-radius: 10px;
+    border: 2px solid rgb(171, 167, 176);
+    clear: both;
+}
